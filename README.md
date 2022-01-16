@@ -10,3 +10,31 @@ It is also possible to register each user, after which the user will have the fo
 - check your own account 
 - replenish your own account
 
+
+### Deployment
+
+1. Clone the repo: 
+   
+   * `git clone https://github.com/OleksandrPrudyvus/post-using-flask`
+    
+2. Create the virtual environment in project:
+
+   * `cd CS50-Finance`
+
+   * `python -m venv venv`
+   
+   * `source venv/bin/activate`
+   
+3. Install project requirements:
+
+   * `pip install -r requirements.txt`
+
+4. Run app:
+       
+   * `open log.txt and paste the command into the console ` -
+   
+   * `set FLASK_APP=application.py`
+     
+   * `flask run`
+***
+##### After these steps you should see the home page of the application
