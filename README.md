@@ -15,7 +15,7 @@ It is also possible to register each user, after which the user will have the fo
 
 1. Clone the repo: 
    
-   * `git clone https://github.com/OleksandrPrudyvus/post-using-flask`
+   * `git clone https://github.com/OleksandrPrudyvus/CS50-Finance.git`
     
 2. Create the virtual environment in project:
 
